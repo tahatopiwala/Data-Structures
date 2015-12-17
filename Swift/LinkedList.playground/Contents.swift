@@ -161,10 +161,10 @@ class Node<T> {
 
 var x = SingleLinkedList<String>()
 
-x.add("Taha")
-x.add("Batul")
-x.add("Mazher")
-x.add("Tasnim")
+x.add("CSE 1222")
+x.add("CSE 2221")
+x.add("CSE 2231")
+x.add("CSE 2452")
 
 x.removeAtPosition(1)
 
